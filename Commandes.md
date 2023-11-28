@@ -21,7 +21,7 @@
     git checkout -b Branche2 master  
 ```
 
-3. Fusion des Branches de Travail dans Master
+3. Fusion des Branches de Travail dans `master`
 
 ```bash
     git checkout master  
